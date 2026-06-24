@@ -1,6 +1,6 @@
 # 🏦 Financial Bankruptcy Prediction Pipeline
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rohan-Rg30/bankruptcy-prediction-pipeline/blob/main/notebooks/Predicting_Company_Bankruptcies.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rohan-Rg30/Predicting_Company_Bankruptcies/blob/main/notebooks/Predicting_Company_Bankruptcies.ipynb)
 
 An end-to-end Machine Learning binary classification pipeline developed entirely in Google Colab to accurately predict company bankruptcies based on high-dimensional financial ratios, automated class-balancing techniques, and a soft-voting tuned ensemble model.
 
