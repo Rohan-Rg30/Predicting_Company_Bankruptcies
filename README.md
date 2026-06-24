@@ -1,6 +1,6 @@
 # ☀️ Annual Solar Energy Production Prediction
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rohan-Rg30/solar-energy-production-prediction/Notebook/solar_energy_pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rohan-Rg30/Predicting_Company_Bankruptcies/blob/main/Notebook/Predicting_Company_Bankruptcies.ipynb)
 
 An end-to-end Machine Learning regression pipeline developed entirely in Google Colab to accurately predict annual solar energy output (kWh) based on hardware capacity dimensions, regional geography tracking, and deployment timeline age metrics.
 
