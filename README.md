@@ -1,4 +1,4 @@
-# 🏦 Financial Bankruptcy Prediction Pipeline
+# 🏢 Company Bankruptcy Prediction Pipeline
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rohan-Rg30/Predicting_Company_Bankruptcies/blob/main/Notebook/Predicting_Company_Bankruptcies.ipynb)
 
