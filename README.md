@@ -35,3 +35,18 @@ The tested architectures were evaluated using an 80/20 train-test split. Below a
 You do not need to install anything locally on your machine to test this project! 
 
 * Click the **Open In Colab** badge at the top of this page.
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/Rohan_Rg30/Predicting_Hotel_Reservation_Cancellations/issues) or open a pull request.
+
+## 📜 License
+
+**© Spinnaker Analytics**. All rights reserved.
+This project was assigned as part of an on-the-job training program at Spinnaker Analytics and is the property of Spinnaker Analytics. It is shared publicly on GitHub for portfolio/demonstration purposes only. No part of this code, dataset pipeline, or documentation may be copied, redistributed, or used commercially without written permission from Spinnaker Analytics.
+
+## 🙋 Author
+
+**Rohan Gaikwad — Data Scientist**
