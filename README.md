@@ -45,13 +45,10 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 ## 📜 License
 
 **© Spinnaker Analytics**. All rights reserved.
-This project was assigned as part of an on-the-job training program at Spinnaker Analytics and is the property of Spinnaker Analytics. It is shared publicly on GitHub for portfolio/demonstration purposes only. No part of this code, dataset pipeline, or documentation may be copied, redistributed, or used commercially without written permission from Spinnaker Analytics.
+This project was assigned by Spinnaker Analytics and is the property of Spinnaker Analytics. It is shared publicly on GitHub for portfolio/demonstration purposes only. No part of this code, dataset pipeline, or documentation may be copied, redistributed, or used commercially without written permission from Spinnaker Analytics.
 
 ## 🙋 Author
 
 **Rohan Gaikwad — Data Scientist** - [LinkedIn](https://www.linkedin.com/in/rohan-gaikwad-8b1976418)
 
-Project completed as part of a 6-month Data Science training program at **Spinnaker Analytics**.
-
----
 <p align="center">⭐ If you found this project useful, consider giving it a star!</p>
